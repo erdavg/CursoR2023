@@ -1,3 +1,4 @@
+## Realizado por: Erick Vázquez
 ## Como instalar paquetes
 install.packages("tidyverse")
 install.packages("gapminder")
